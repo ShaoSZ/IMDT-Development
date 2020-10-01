@@ -1,1 +1,0 @@
-press W A S D and use your mouse to move the camera
